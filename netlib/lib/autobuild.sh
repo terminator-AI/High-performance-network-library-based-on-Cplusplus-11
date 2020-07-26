@@ -26,7 +26,7 @@ do
     cp $header /usr/include/netlib
 done
 
-cp `pwd`/bin/libmymuduo.so /usr/lib
+cp `pwd`/bin/libnetlib.so /usr/lib
 
 
 ldconfig
